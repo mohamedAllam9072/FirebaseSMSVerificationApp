@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576771718553",
+    "project_id": "sms-firebase-85bcd",
+    "storage_bucket": "sms-firebase-85bcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576771718553:android:2e757bec794d15e56fe708",
+        "android_client_info": {
+          "package_name": "com.allam9072.sms_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576771718553-5959dneostige1fbrjt5rm7kjjkumkgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmwkHcBIoodOsb3CXIe56Y1IaG2n6A8Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576771718553-5959dneostige1fbrjt5rm7kjjkumkgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
